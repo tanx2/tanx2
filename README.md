@@ -14,7 +14,9 @@
  
  🌱 I’m currently learning **Nginx, Celery, Tailwind, Webpack, Docker, AWS**
 
-💬 Ask me about **Django, ML... or anything [here]([https://github.com/](https://github.com/tanx2/tanx2/issues))**
+
+💬 Ask me about **Django, ML... or anything [here](https://github.com/tanx2/tanx2/issues)**
+
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
