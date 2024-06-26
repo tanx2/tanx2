@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a restaurant-focused point-of-sale(POS) system**
  
- 🌱 I’m currently learning **Nginx, Celery, Tailwind, Webpack, Docker, AWS**
+ 🌱 I’m currently learning **React, Next, Nginx, Celery, Webpack, Docker, AWS**
 
 
 💬 Ask me about **Django, ML... or anything [here](https://github.com/tanimomor/tanimomor/issues)**
